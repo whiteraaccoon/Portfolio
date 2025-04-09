@@ -489,9 +489,6 @@ display: block; 가상요소를 블록 요소처럼 만들어서 크기를 줄�
 }
 /* 화면 너비가 767px 이하일 때 (모바일) */
 @media (max-width: 767px) {
-  body {
-    background-color: deeppink;
-  }
   * {
     font-size: 50%;
     font-weight: 300;
